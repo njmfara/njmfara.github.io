@@ -9,7 +9,7 @@ a{
 }
 .medsos{
 	padding: 5px 0;
-	background-color: 	#FF69B4; 
+	background-color: 	#66CDAA; 
 }
 .medsos ul li{
 	display: inline-block;
@@ -28,12 +28,12 @@ a{
 header h1{
 	float: left;
 	padding: 15px 0;
-	color: 	#FF69B4;
+	color: 	#66CDAA;
 }
 header h2{
 	float: left;
 	padding: 10px 0;
-	color: #FF69B4;
+	color: #66CDAA;
 }
 header ul{
 	float: right;
@@ -46,11 +46,11 @@ header ul li a{
 	display: inline-block;
 }
 header ul li a:hover{
-	background-color: #FF69B4; 
+	background-color: #66CDAA; 
 	color: white;
 }
 .active{
-	background-color: 	#FF69B4; 
+	background-color: 	#66CDAA; 
 	color: white;
 }
 .banner{
@@ -86,27 +86,26 @@ section{
 	padding: 50px 0;
 }
 section h2{
-	background-color:	#c9e28d;
 	padding: 20px 0;
-	color: #7e8000;
+	color: #0000;
 	text-align: center;
 
 }
 section h3{
 	text-align: center;
 	padding: 20px 0;
-	color: 	#d7e297;
+	color: 	#0000;
 	margin-bottom: 20px;
 }
 section p{
-	color: 	#d7e297;
+	color: 	#0000;
 	word-spacing: 2px;
 	line-height: 20px;
 	padding: 50px;
 	text-align:justify;
 }
 .biodata{
-	background-color: #c9e28d;
+	background-color: #87ceeb;
 }
 .biodata ul li{
 	text-align: center;
@@ -116,15 +115,15 @@ section p{
 	display: block;
 }
 .pengalaman{
-	background-color: #c9e28d;
+	background-color: #87ceeb;
 	display: block;
 	margin-bottom: 10px;
 }
 .gallery{
-	background-color: #c9e28d;
+	background-color: #87ceeb;
 }
 .content{
-	background-color: #c9e28d;
+	background-color: #87ceeb;
 	display: block;
 	margin-bottom: 10px;
 
