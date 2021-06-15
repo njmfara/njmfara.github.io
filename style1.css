@@ -9,7 +9,7 @@ a{
 }
 .medsos{
 	padding: 5px 0;
-	background-color: 	#66CDAA; 
+	background-color: 	#FFB6C1; 
 }
 .medsos ul li{
 	display: inline-block;
@@ -28,12 +28,12 @@ a{
 header h1{
 	float: left;
 	padding: 15px 0;
-	color: 	#66CDAA;
+	color: 	#FFB6C1;
 }
 header h2{
 	float: left;
 	padding: 10px 0;
-	color: #66CDAA;
+	color: #FFB6C1;
 }
 header ul{
 	float: right;
@@ -46,16 +46,16 @@ header ul li a{
 	display: inline-block;
 }
 header ul li a:hover{
-	background-color: #66CDAA; 
+	background-color: #FFB6C1; 
 	color: white;
 }
 .active{
-	background-color: 	#66CDAA; 
+	background-color: 	#FFB6C1; 
 	color: white;
 }
 .banner{
 	height: 90vh;
-	background-image: url(banner3.jpg);
+	background-image: url(background.jpg);
 	background-size: cover;
 	position: relative;
 	display: flex;
@@ -74,10 +74,10 @@ header ul li a:hover{
 }
 .banner h2{
 	background-image: url(background.jpg);
-	color:	#828b00;
+	color:	#fffff;
 	z-index: 1;
 	padding: 20px 20px;
-	border: 8px groove 	#b2db70;
+	border: 8px groove 	#fffff;
 	text-align: center;
 }
 
@@ -87,18 +87,18 @@ section{
 }
 section h2{
 	padding: 20px 0;
-	color: #0000;
+	color: #fffff;
 	text-align: center;
 
 }
 section h3{
 	text-align: center;
 	padding: 20px 0;
-	color: 	#0000;
+	color: 	#fffff;
 	margin-bottom: 20px;
 }
 section p{
-	color: 	#0000;
+	color: 	#fffff;
 	word-spacing: 2px;
 	line-height: 20px;
 	padding: 50px;
