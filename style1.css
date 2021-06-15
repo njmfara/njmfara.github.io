@@ -74,10 +74,10 @@ header ul li a:hover{
 }
 .banner h2{
 	background-image: url(background.jpg);
-	color:	#fffff;
+	color:	#ffffff;
 	z-index: 1;
 	padding: 20px 20px;
-	border: 8px groove 	#fffff;
+	border: 8px groove 	#ffffff;
 	text-align: center;
 }
 
@@ -87,18 +87,18 @@ section{
 }
 section h2{
 	padding: 20px 0;
-	color: #fffff;
+	color: #ffffff;
 	text-align: center;
 
 }
 section h3{
 	text-align: center;
 	padding: 20px 0;
-	color: 	#fffff;
+	color: 	#ffffff;
 	margin-bottom: 20px;
 }
 section p{
-	color: 	#fffff;
+	color: 	#ffffff;
 	word-spacing: 2px;
 	line-height: 20px;
 	padding: 50px;
